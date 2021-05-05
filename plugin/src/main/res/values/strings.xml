@@ -1,0 +1,4 @@
+<resources>
+    <string name="myplugin1_hello_world">Hello World</string>
+    <string name="hello_message">hello</string>
+</resources>
